@@ -1,3 +1,4 @@
+//function to convert a number into base 3 number
 static void convert_Ternary(int n)
     {
 
